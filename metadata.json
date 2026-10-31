@@ -1,0 +1,6 @@
+{
+  "name": "Auto WiFi Password Monitor",
+  "description": "Account-free automatic Wi-Fi password monitoring system with authorized router API integration, AES-256-GCM encrypted SQLite storage, real-time WebSocket alerts, and local Python FastAPI companion agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
